@@ -9,6 +9,9 @@ Hi! This is a course on Design and Analysis of Observation Studies for masters' 
 ## Schedule
 - Nov, 2025
 
+## course leader
+- Marie Reilly, marie.reilly@ki.se
+  
 ## Prerequisitives
 Before the course, participants should prepare their computer and software environment using the following advice for
 - [R users](Introduction for R users_2024.pdf)
@@ -26,8 +29,6 @@ Day 2
 Day 3
 
 Day 4
-
-- GitHub: [yuqzha](https://github.com/yuqzha)
-- Email: marie.reilly@ki.se, yuqizhang.epi@gmail.com
-
+ ...
+ 
 *Last updated: Sep 2025*
