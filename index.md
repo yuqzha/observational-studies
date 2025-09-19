@@ -9,7 +9,7 @@ Hi! This is a course on Design and Analysis of Observation Studies for masters' 
 ## Schedule
 - Nov, 2025
 
-## course leader
+## Course leader
 - Marie Reilly, marie.reilly@ki.se
   
 ## Prerequisitives
