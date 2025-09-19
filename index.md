@@ -3,7 +3,7 @@ title: Design and Analysis of Observation Studies
 layout: home
 ---
 
-# Course introduction
+# Introduction
 Hi! This is a course on Design and Analysis of Observation Studies for masters' student in Biostatistics and Data Science
 
 ## Schedule
