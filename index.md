@@ -1,5 +1,5 @@
 ---
-title: MEB course
+title: Design and Analysis of Observation Studies
 layout: home
 ---
 
