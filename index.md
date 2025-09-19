@@ -1,10 +1,9 @@
 ---
-title: Design and Analysis of Observation Studies
+title: MEB course
 layout: home
 ---
 
 # Course introduction
-
 Hi! This is a course on Design and Analysis of Observation Studies for masters' student in Biostatistics and Data Science
 
 ## Schedule
