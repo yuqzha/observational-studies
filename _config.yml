@@ -1,3 +1,23 @@
 theme: minima
-title: Observasional Studies
-description: Bookmark this to keep an eye on course resourses!
+title: Observational Studies
+description: Bookmark this to keep an eye on course resources!
+description: "Course website"
+
+# Navigation
+nav_links:
+  - title: "HOME"
+    url: "/"
+  - title: "SCHEDULE" 
+    url: "/schedule"
+  - title: "DOWNLOAD"
+    url: "/download"
+  - title: "CONTACT"
+    url: "/contact"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
