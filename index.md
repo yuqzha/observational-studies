@@ -12,7 +12,7 @@ Hi! This is a course on Design and Analysis of Observation Studies for masters' 
 
 ## Prerequisitives
 Before the course, participants should prepare their computer and software environment using the following advice for
-- R users  here  
+- R users  [Introduction for R users_2024.pdf]
 - Stata users   here   
 
 These documents also explain where to store the data sets which should be downloaded from here and unzipped.
